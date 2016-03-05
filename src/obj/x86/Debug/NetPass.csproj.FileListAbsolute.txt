@@ -1,0 +1,8 @@
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\bin\Debug\NetPass.pdb
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\obj\x86\Debug\NetPass.Properties.Resources.resources
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\obj\x86\Debug\NetPass.pdb
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\bin\Debug\NetPass.dll
+F:\Dev\Net\CSharp\MAContr\Child\NetServer\NetPass\obj\x86\Debug\NetPass.dll
